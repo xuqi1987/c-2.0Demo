@@ -17,5 +17,6 @@ int main()
     f(0);
     //f(NULL); 产生歧义
     f(nullptr);
+    f(std::nullptr_t());
     return 0;
 }
