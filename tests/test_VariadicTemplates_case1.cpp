@@ -5,6 +5,7 @@
 #include <iostream>
 using namespace std;
 
+// 例1:
 // 当参数个数为0时，调用的函数
 void print()
 {
